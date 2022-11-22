@@ -10,8 +10,7 @@ body {
 
 header, footer {
     width: 1000px;
-    display: flex;
-    justify-content: center;
+    margin: 0 auto;
 }
 
 header {
@@ -29,8 +28,7 @@ h1 {
 
 #grid-container {
     width: 1000px;
-    display: flex;
-    justify-content: center;
+    margin: 0 auto;
     background-color: #fdfdfd;
     display: grid;
     grid-template-columns: 184px 1fr;
